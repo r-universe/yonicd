@@ -3,3 +3,43 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "carbonate"]
+	path = carbonate
+	url = https://github.com/yonicd/carbonate
+	shallow = true
+[submodule "d3Tree"]
+	path = d3Tree
+	url = https://github.com/yonicd/d3tree
+	shallow = true
+[submodule "details"]
+	path = details
+	url = https://github.com/yonicd/details
+	shallow = true
+[submodule "ggedit"]
+	path = ggedit
+	url = https://github.com/yonicd/ggedit
+	shallow = true
+[submodule "jsTree"]
+	path = jsTree
+	url = https://github.com/yonicd/jstree
+	shallow = true
+[submodule "regexSelect"]
+	path = regexSelect
+	url = https://github.com/yonicd/regexselect
+	shallow = true
+[submodule "shinyHeatmaply"]
+	path = shinyHeatmaply
+	url = https://github.com/yonicd/shinyheatmaply
+	shallow = true
+[submodule "slickR"]
+	path = slickR
+	url = https://github.com/yonicd/slickr
+	shallow = true
+[submodule "texPreview"]
+	path = texPreview
+	url = https://github.com/yonicd/texpreview
+	shallow = true
+[submodule "whereami"]
+	path = whereami
+	url = https://github.com/yonicd/whereami
+	shallow = true
