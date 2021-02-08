@@ -31,6 +31,10 @@
 	path = shinyHeatmaply
 	url = https://github.com/yonicd/shinyheatmaply
 	shallow = true
+[submodule "sinew"]
+	path = sinew
+	url = https://github.com/yonicd/sinew
+	shallow = true
 [submodule "slickR"]
 	path = slickR
 	url = https://github.com/yonicd/slickr
