@@ -8,64 +8,53 @@
 	url = https://github.com/yonicd/carbonate
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "d3Tree"]
 	path = d3Tree
 	url = https://github.com/yonicd/d3tree
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "details"]
 	path = details
 	url = https://github.com/yonicd/details
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "ggedit"]
 	path = ggedit
 	url = https://github.com/yonicd/ggedit
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "jsTree"]
 	path = jsTree
 	url = https://github.com/yonicd/jstree
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "regexSelect"]
 	path = regexSelect
 	url = https://github.com/yonicd/regexselect
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "shinyHeatmaply"]
 	path = shinyHeatmaply
 	url = https://github.com/yonicd/shinyheatmaply
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "sinew"]
 	path = sinew
 	url = https://github.com/yonicd/sinew
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "slickR"]
 	path = slickR
 	url = https://github.com/yonicd/slickr
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "texPreview"]
 	path = texPreview
 	url = https://github.com/yonicd/texpreview
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "whereami"]
 	path = whereami
 	url = https://github.com/yonicd/whereami
 	shallow = true
 	registered = true
-	oncran = true

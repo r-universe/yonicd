@@ -1,0 +1,46 @@
+[
+  {
+    "package": "carbonate",
+    "oncran": true
+  },
+  {
+    "package": "d3Tree",
+    "oncran": true
+  },
+  {
+    "package": "details",
+    "oncran": true
+  },
+  {
+    "package": "ggedit",
+    "oncran": true
+  },
+  {
+    "package": "jsTree",
+    "oncran": true
+  },
+  {
+    "package": "regexSelect",
+    "oncran": true
+  },
+  {
+    "package": "shinyHeatmaply",
+    "oncran": true
+  },
+  {
+    "package": "sinew",
+    "oncran": true
+  },
+  {
+    "package": "slickR",
+    "oncran": true
+  },
+  {
+    "package": "texPreview",
+    "oncran": true
+  },
+  {
+    "package": "whereami",
+    "oncran": true
+  }
+]
