@@ -8,10 +8,6 @@
     "oncran": true
   },
   {
-    "package": "details",
-    "oncran": true
-  },
-  {
     "package": "ggedit",
     "oncran": true
   },
