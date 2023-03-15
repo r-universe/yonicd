@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "ggedit"]
-	path = ggedit
-	url = https://github.com/yonicd/ggedit
+[submodule "carbonate"]
+	path = carbonate
+	url = https://github.com/yonicd/carbonate
 	shallow = true
 	registered = true
 [submodule "d3Tree"]
@@ -18,9 +18,9 @@
 	url = https://github.com/yonicd/details
 	shallow = true
 	registered = true
-[submodule "shinyHeatmaply"]
-	path = shinyHeatmaply
-	url = https://github.com/yonicd/shinyheatmaply
+[submodule "ggedit"]
+	path = ggedit
+	url = https://github.com/yonicd/ggedit
 	shallow = true
 	registered = true
 [submodule "jsTree"]
@@ -28,24 +28,14 @@
 	url = https://github.com/yonicd/jstree
 	shallow = true
 	registered = true
-[submodule "slickR"]
-	path = slickR
-	url = https://github.com/yonicd/slickr
-	shallow = true
-	registered = true
 [submodule "regexSelect"]
 	path = regexSelect
 	url = https://github.com/yonicd/regexselect
 	shallow = true
 	registered = true
-[submodule "whereami"]
-	path = whereami
-	url = https://github.com/yonicd/whereami
-	shallow = true
-	registered = true
-[submodule "carbonate"]
-	path = carbonate
-	url = https://github.com/yonicd/carbonate
+[submodule "shinyHeatmaply"]
+	path = shinyHeatmaply
+	url = https://github.com/yonicd/shinyheatmaply
 	shallow = true
 	registered = true
 [submodule "sinew"]
@@ -53,8 +43,18 @@
 	url = https://github.com/yonicd/sinew
 	shallow = true
 	registered = true
+[submodule "slickR"]
+	path = slickR
+	url = https://github.com/yonicd/slickr
+	shallow = true
+	registered = true
 [submodule "texPreview"]
 	path = texPreview
 	url = https://github.com/yonicd/texpreview
+	shallow = true
+	registered = true
+[submodule "whereami"]
+	path = whereami
+	url = https://github.com/yonicd/whereami
 	shallow = true
 	registered = true
