@@ -1,6 +1,6 @@
 [
   {
-    "package": "carbonate",
+    "package": "ggedit",
     "oncran": true
   },
   {
@@ -12,7 +12,7 @@
     "oncran": true
   },
   {
-    "package": "ggedit",
+    "package": "shinyHeatmaply",
     "oncran": true
   },
   {
@@ -20,11 +20,19 @@
     "oncran": true
   },
   {
+    "package": "slickR",
+    "oncran": true
+  },
+  {
     "package": "regexSelect",
     "oncran": true
   },
   {
-    "package": "shinyHeatmaply",
+    "package": "whereami",
+    "oncran": true
+  },
+  {
+    "package": "carbonate",
     "oncran": true
   },
   {
@@ -32,15 +40,7 @@
     "oncran": true
   },
   {
-    "package": "slickR",
-    "oncran": true
-  },
-  {
     "package": "texPreview",
-    "oncran": true
-  },
-  {
-    "package": "whereami",
     "oncran": true
   }
 ]
