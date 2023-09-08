@@ -29,9 +29,6 @@
 [submodule "slickR"]
 	path = slickR
 	url = https://github.com/yonicd/slickr
-[submodule "texPreview"]
-	path = texPreview
-	url = https://github.com/yonicd/texpreview
 [submodule "whereami"]
 	path = whereami
 	url = https://github.com/yonicd/whereami
