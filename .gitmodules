@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "carbonate"]
-	path = carbonate
-	url = https://github.com/yonicd/carbonate
 [submodule "d3Tree"]
 	path = d3Tree
 	url = https://github.com/yonicd/d3tree
