@@ -23,9 +23,6 @@
 [submodule "sinew"]
 	path = sinew
 	url = https://github.com/yonicd/sinew
-[submodule "slickR"]
-	path = slickR
-	url = https://github.com/yonicd/slickr
 [submodule "texPreview"]
 	path = texPreview
 	url = https://github.com/yonicd/texpreview
