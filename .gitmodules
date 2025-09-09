@@ -8,9 +8,6 @@
 [submodule "details"]
 	path = details
 	url = https://github.com/yonicd/details
-[submodule "ggedit"]
-	path = ggedit
-	url = https://github.com/yonicd/ggedit
 [submodule "jsTree"]
 	path = jsTree
 	url = https://github.com/yonicd/jstree
